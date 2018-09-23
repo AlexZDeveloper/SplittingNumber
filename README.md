@@ -1,2 +1,0 @@
-# SplittingNumber
-UniLecs Task128
